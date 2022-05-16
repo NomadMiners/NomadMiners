@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... decentralizeing blockchains with green technology 
 - 🌱 I’m currently learning ... multichain and cross chain tech
 - 💞️ I’m looking to collaborate on ... Nomad miners dao 
-- 📫 How to reach me ... https://twitter.com/LunaMiners?t=nj7mr6_DB1ckldvY-zxlbA&s=09
+- 📫 How to reach me ...twitter link- https://twitter.com/LunaMiners?t=nj7mr6_DB1ckldvY-zxlbA&s=09
+- discord link- https://discord.gg/tNe65WRaMg
+
 
 <!---
 NomadMiners/NomadMiners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
